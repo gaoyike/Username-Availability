@@ -1,258 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93498ae7-23c0-4fa4-aede-abbd9fc58086" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.history" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sbt_2.11-default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_2.11-default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-container.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project$sources_javadoc_2.11-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-compile-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-compile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-container.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-docs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-optional.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-plugin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-provided.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-runtime-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-runtime.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-scala-tool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-test-internal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/usernameinuse-my-project_2.11-test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/usernameinuse/my-project$sbt_2.11/0.1/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/usernameinuse/my-project$sbt_2.11/0.1/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/usernameinuse/my-project$sources_2.11/0.1/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/usernameinuse/my-project$sources_2.11/0.1/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/usernameinuse/my-project$sources_javadoc_2.11/0.1/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/usernameinuse/my-project$sources_javadoc_2.11/0.1/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/usernameinuse/my-project_2.11/0.1/resolved.xml.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/resolution-cache/usernameinuse/my-project_2.11/0.1/resolved.xml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/ROOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/ROOT.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Retrieve/Github$$anonfun$UserNameInUser$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Retrieve/Github$$anonfun$UserNameInUser$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Retrieve/Github$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Retrieve/Github.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Retrieve/Google$$anonfun$UserNameInUser$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Retrieve/Google$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Retrieve/Google$MyJsonProtocol$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Retrieve/Google.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Retrieve/RetrieveInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/DBOps$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/DBOps.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/Error$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/Error.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/HighPriorityRequest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/HighPriorityRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/HighPriorityResponse$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/HighPriorityResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/LowPriorityRequest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/LowPriorityRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/LowPriorityResponse$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/LowPriorityResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/RequestMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/ResponseMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/ans$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/ans.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/in$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/in.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/input$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/input.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/myUtils$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/myUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/out$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/out.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/output$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/output.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/request$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/request.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/requestJsonSupport$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/requestJsonSupport.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/response$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/response.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/responseJsonSupport$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/responseJsonSupport.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/result$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Utils/result.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/akka/DataBaseActor$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/akka/DataBaseActor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/akka/MyPriorityMailbox$$anonfun$$lessinit$greater$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/akka/MyPriorityMailbox.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/akka/OnlineSearchActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/akka/OnlineSearchActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/akka/OnlineSearchActor$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/akka/OnlineSearchActor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/akka/RequestActor$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/akka/RequestActor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/Boot$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/Boot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/DB$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/DB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/MyService$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/MyService$$anonfun$handlePerRequest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/MyService$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/MyService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/MyServiceActor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/PerRequest$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/PerRequest$$anonfun$complete$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/PerRequest$$anonfun$receive$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/PerRequest$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/PerRequest$WithProps$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/PerRequest$WithProps.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/PerRequest$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/PerRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/PerRequestCreator$$anonfun$perRequest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/PerRequestCreator$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/api/PerRequestCreator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/datastore/Example.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/datastore/Username$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/datastore/Username$$anonfun$ResToString$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/datastore/Username$$anonfun$StringtoRes$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/datastore/Username$$anonfun$Update$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/datastore/Username$$anonfun$search$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/datastore/Username$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/datastore/Username.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/webapp/css/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/webapp/css/selectize.bootstrap3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/webapp/css/stylesheet.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/webapp/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/webapp/js/es5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/webapp/js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/webapp/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/webapp/js/jqueryui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/webapp/js/selectize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/clean/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/package/$global/streams/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/package/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/package/$global/streams/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/container/start/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/container/stop/$global/streams/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/akka-actor_2.11-2.3.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/commons-codec-1.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/config-1.2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-api-client-1.19.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-api-client-java6-1.19.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-api-services-datastore-protobuf-v1beta2-rev1-2.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-api-services-fitness-v1-rev4-1.19.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-api-services-oauth2-v2-rev83-1.19.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-api-services-storage-v1-rev23-1.19.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-http-client-1.19.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-http-client-jackson-1.15.0-rc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-http-client-jackson2-1.19.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-http-client-protobuf-1.15.0-rc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-oauth-client-1.19.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-oauth-client-java6-1.19.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/google-oauth-client-jetty-1.19.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/guava-jdk5-13.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/httpclient-4.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/httpcore-4.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/jackson-core-2.1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/jackson-core-asl-1.9.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/jetty-6.1.26.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/jetty-util-6.1.26.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/json4s-ast_2.11-3.2.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/json4s-core_2.11-3.2.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/json4s-native_2.11-3.2.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/jsr305-1.3.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/mimepull-1.9.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/my-project_2.11-0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/paranamer-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/parboiled-core-1.1.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/parboiled-scala_2.11-1.1.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/protobuf-java-2.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/scala-compiler-2.11.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/scala-library-2.11.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/scala-parser-combinators_2.11-1.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/scala-reflect-2.11.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/scala-xml_2.11-1.0.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/scalap-2.11.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/servlet-api-2.5-20081211.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/shapeless_2.11-1.2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/spray-can_2.11-1.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/spray-client_2.11-1.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/spray-http_2.11-1.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/spray-httpx_2.11-1.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/spray-io_2.11-1.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/spray-json_2.11-1.3.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/spray-routing_2.11-1.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/spray-servlet_2.11-1.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/lib/spray-util_2.11-1.3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/webapp/WEB-INF/web.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/api/Boot.scala" afterPath="$PROJECT_DIR$/src/main/scala/api/Boot.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/akka/DataBaseActor.scala" afterPath="$PROJECT_DIR$/src/main/scala/akka/DataBaseActor.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Retrieve/Github.scala" afterPath="$PROJECT_DIR$/src/main/scala/Retrieve/Github.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Retrieve/Google.scala" afterPath="$PROJECT_DIR$/src/main/scala/Retrieve/Google.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/akka/MainActor.scala" afterPath="$PROJECT_DIR$/src/main/scala/akka/MainActor.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/api/MyService.scala" afterPath="$PROJECT_DIR$/src/main/scala/api/MyService.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/akka/OnlineSearchActor.scala" afterPath="$PROJECT_DIR$/src/main/scala/akka/OnlineSearchActor.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/api/PerRequest.scala" afterPath="$PROJECT_DIR$/src/main/scala/api/PerRequest.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/akka/RequestActor.scala" afterPath="$PROJECT_DIR$/src/main/scala/akka/RequestActor.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Retrieve/RetrieveInfo.scala" afterPath="$PROJECT_DIR$/src/main/scala/Retrieve/RetrieveInfo.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/datastore/Username.scala" afterPath="$PROJECT_DIR$/src/main/scala/datastore/Username.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/akka/myPriorityMailbox.scala" afterPath="$PROJECT_DIR$/src/main/scala/akka/myPriorityMailbox.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Utils/myUtils.scala" afterPath="$PROJECT_DIR$/src/main/scala/Utils/myUtils.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="93498ae7-23c0-4fa4-aede-abbd9fc58086" name="Default" comment="Add Comment and hide private information for p12 file path">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="my-project.iws" />
@@ -323,6 +72,11 @@
               <caret line="19" column="21" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="21" />
               <folding>
                 <element signature="e#19#45#0" expanded="true" />
+                <marker date="1436032041000" expanded="true" signature="4083:4109" placeholder="{...}" />
+                <marker date="1436032041000" expanded="true" signature="4115:4942" placeholder="{...}" />
+                <marker date="1436032041000" expanded="true" signature="5675:6434" placeholder="(...)" />
+                <marker date="1436032041000" expanded="true" signature="6550:6576" placeholder="{...}" />
+                <marker date="1436032041000" expanded="true" signature="6679:6762" placeholder="(...)" />
               </folding>
             </state>
           </provider>
@@ -333,7 +87,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-              <folding />
+              <folding>
+                <marker date="1436032041000" expanded="true" signature="988:1369" placeholder="(...)" />
+                <marker date="1436032041000" expanded="true" signature="1015:1114" placeholder="..." />
+                <marker date="1436032041000" expanded="true" signature="1140:1363" placeholder="..." />
+                <marker date="1436032041000" expanded="true" signature="1148:1363" placeholder="{...}" />
+                <marker date="1436032041000" expanded="true" signature="1202:1308" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -415,8 +175,8 @@
       <file leaf-file-name="MyService.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/api/MyService.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39008042">
-              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.3605898">
+              <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -1702,12 +1462,19 @@
       <workItem from="1435966290211" duration="1882000" />
       <workItem from="1435981625405" duration="5528000" />
       <workItem from="1436025683865" duration="2081000" />
-      <workItem from="1436031258862" duration="741000" />
+      <workItem from="1436031258862" duration="929000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Comment and hide private information for p12 file path">
+      <created>1436032053928</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1436032053928</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131785000" />
+    <option name="totallyTimeSpent" value="131973000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1735,6 +1502,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2761905" sideWeight="0.5077535" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32958478" sideWeight="0.49622267" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32813853" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.49860835" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24930418" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1750,7 +1518,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32813853" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1788,6 +1555,9 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -1800,7 +1570,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Add Comment and hide private information for p12 file path" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Comment and hide private information for p12 file path" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1813,7 +1586,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/scala/datastore/Username.scala</url>
-          <line>49</line>
+          <line>52</line>
           <properties />
           <option name="timeStamp" value="98" />
         </line-breakpoint>
@@ -1825,13 +1598,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/scala/Retrieve/Google.scala</url>
-          <line>32</line>
+          <line>33</line>
           <properties />
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/scala/api/MyService.scala</url>
-          <line>58</line>
+          <line>59</line>
           <properties />
           <option name="timeStamp" value="109" />
         </line-breakpoint>
@@ -1862,6 +1635,11 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#19#45#0" expanded="true" />
+            <marker date="1436032041000" expanded="true" signature="4083:4109" placeholder="{...}" />
+            <marker date="1436032041000" expanded="true" signature="4115:4942" placeholder="{...}" />
+            <marker date="1436032041000" expanded="true" signature="5675:6434" placeholder="(...)" />
+            <marker date="1436032041000" expanded="true" signature="6550:6576" placeholder="{...}" />
+            <marker date="1436032041000" expanded="true" signature="6679:6762" placeholder="(...)" />
           </folding>
         </state>
       </provider>
@@ -2106,6 +1884,11 @@
           <caret line="19" column="21" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="21" />
           <folding>
             <element signature="e#19#45#0" expanded="true" />
+            <marker date="1436032041000" expanded="true" signature="4083:4109" placeholder="{...}" />
+            <marker date="1436032041000" expanded="true" signature="4115:4942" placeholder="{...}" />
+            <marker date="1436032041000" expanded="true" signature="5675:6434" placeholder="(...)" />
+            <marker date="1436032041000" expanded="true" signature="6550:6576" placeholder="{...}" />
+            <marker date="1436032041000" expanded="true" signature="6679:6762" placeholder="(...)" />
           </folding>
         </state>
       </provider>
@@ -2114,7 +1897,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
+          <folding>
+            <marker date="1436032041000" expanded="true" signature="988:1369" placeholder="(...)" />
+            <marker date="1436032041000" expanded="true" signature="1015:1114" placeholder="..." />
+            <marker date="1436032041000" expanded="true" signature="1140:1363" placeholder="..." />
+            <marker date="1436032041000" expanded="true" signature="1148:1363" placeholder="{...}" />
+            <marker date="1436032041000" expanded="true" signature="1202:1308" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2180,8 +1969,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/api/MyService.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39008042">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.3605898">
+          <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
           <folding />
         </state>
       </provider>

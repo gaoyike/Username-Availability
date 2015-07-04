@@ -5,7 +5,7 @@
 //import com.website.Boot
 //
 ///**
-// * Created by chenguanghe on 6/30/15.
+// * Created by gaoyike on 6/30/15.
 // */
 //class MainActor extends Actor{
 //  override def receive: Receive = {

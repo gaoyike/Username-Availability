@@ -4,7 +4,8 @@ import akka.actor.Actor
 import datastore.Username
 
 /**
- * Created by chenguanghe on 7/2/15.
+ * This class is the actor of Database. It implements the Priority Queue implementation
+ * Created by gaoyike on 7/2/15.
  */
 class DataBaseActor extends Actor {
   override def receive: Receive = {

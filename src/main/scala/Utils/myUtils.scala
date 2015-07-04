@@ -7,7 +7,8 @@ import spray.httpx.SprayJsonSupport
 import spray.json.DefaultJsonProtocol
 
 /**
- * Created by chenguanghe on 6/30/15.
+ * useful tools
+ * Created by gaoyike on 6/30/15.
  */
 object myUtils {
   val CompanyNameToID = Map[String,Int](

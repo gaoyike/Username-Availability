@@ -19,6 +19,7 @@ class Boot extends WebBoot{
   // start a new HTTP server on port 8080 with our service actor as the handler
   implicit val timeout = Timeout(10 seconds)
   IO(Http) ? Http.Bind(serviceActor, interface = "localhost", port = 8080)
+  //singleton database actor use priority queue
   val dbActor = system.actorOf(Props[DataBaseActor].withDispatcher("my-priority-dispatcher"),"db")
   DB.setDBActor(dbActor)
   system.registerOnTermination {

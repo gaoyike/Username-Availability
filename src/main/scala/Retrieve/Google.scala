@@ -9,7 +9,8 @@ import scala.concurrent.Future
 import scala.util.{Failure, Success}
 
 /**
- * Created by chenguanghe on 6/30/15.
+ * Search Google ID
+ * Created by gaoyike on 6/30/15.
  */
 
 class Google extends RetrieveInfo with Actor{
@@ -18,12 +19,13 @@ class Google extends RetrieveInfo with Actor{
 
   override def RetrieveURL(): String = URL
 
-  object MyJsonProtocol extends DefaultJsonProtocol {
-    implicit val inputFormat = jsonFormat4(input)
-    implicit val inFormat = jsonFormat2(in)
-    implicit val outputFormat = jsonFormat2(output)
-    implicit val outFormat = jsonFormat2(out)
+  override def receive: Receive = {
+    case r: request => {
+      UserNameInUser(r.username, r.id)
+    }
+    case _ => print("Error in Google")
   }
+
   override def UserNameInUser(username: String, processId:Long) = {
     import MyJsonProtocol._
     import spray.httpx.SprayJsonSupport._
@@ -41,10 +43,10 @@ class Google extends RetrieveInfo with Actor{
     }
   }
 
-  override def receive: Receive = {
-    case r:request => {
-      UserNameInUser(r.username,r.id)
-    }
-    case _ => print("Error in Google")
+  object MyJsonProtocol extends DefaultJsonProtocol {
+    implicit val inputFormat = jsonFormat4(input)
+    implicit val inFormat = jsonFormat2(in)
+    implicit val outputFormat = jsonFormat2(output)
+    implicit val outFormat = jsonFormat2(out)
   }
 }

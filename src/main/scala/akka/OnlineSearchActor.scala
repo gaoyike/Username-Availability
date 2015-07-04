@@ -11,7 +11,8 @@ import scala.concurrent.duration._
 import scala.concurrent.{Await, ExecutionContext, Future}
 
 /**
- * Created by chenguanghe on 7/3/15.
+ * Online search the result
+ * Created by gaoyike on 7/3/15.
  */
 class OnlineSearchActor  extends Actor{
   override def receive: Receive = {

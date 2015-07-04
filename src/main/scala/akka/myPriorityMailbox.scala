@@ -5,7 +5,7 @@ import akka.actor.ActorSystem
 import akka.dispatch.{PriorityGenerator, UnboundedPriorityMailbox}
 import com.typesafe.config.Config
 /**
- * Created by chenguanghe on 7/2/15.
+ * Created by gaoyike on 7/2/15.
  */
 class MyPriorityMailbox(settings: ActorSystem.Settings, config: Config) extends UnboundedPriorityMailbox(
   // Create a new PriorityGenerator, lower prio means more important

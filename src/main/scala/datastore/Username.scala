@@ -15,12 +15,17 @@ import scala.collection.JavaConverters._
 import scala.collection.mutable.ListBuffer
 
 /**
- * Created by chenguanghe on 7/2/15.
+ * This class is the implementation of username checking database using Google Datastore.
+ * It uses the low-level api to achieve the best performance.
+ * Created by gaoyike on 7/2/15.
  */
 class Username {
   private val datasetId: String = "usernameinuse-993"
+  // the id if project, you can find it in your project management page
   private val accountEmail: String = "698296859446-ue0flgsfncj4k30j6k5fc9t99tusd1sc@developer.gserviceaccount.com"
-  private val filename: String = "/Users/chenguanghe/usernameinuse-a45410b7ff47.p12"
+  // the API ID, in project's API page
+  private val filename: String = "/Users/xxx/usernameinuse-a45410b7ff47.p12"
+  // the p12 file path
   private val Kind = "username"
   private var datastore: Datastore = null
 
@@ -74,6 +79,18 @@ class Username {
       response(id,username,List[result]())
   }
 
+  def StringtoRes(s: String): List[result] = {
+    var list: ListBuffer[result] = ListBuffer[result]()
+    var rev = myUtils.CompanyNameToID.map(_.swap)
+    for (i <- 0 to s.length - 1) {
+      if (s.reverse.charAt(i) == '0')
+        list.append(result(rev(i), "false"))
+      else
+        list.append(result(rev(i), "true"))
+    }
+    return list.toList
+  }
+
   def Insert(username: String, res:List[result]): Boolean = {
     var treq = BeginTransactionRequest.newBuilder
     var tres = datastore.beginTransaction(treq.build)
@@ -103,6 +120,7 @@ class Username {
       return true;
     }
   }
+
   def Update(username: String, res:List[result]): Boolean = {
     var treq = BeginTransactionRequest.newBuilder
     var tres = datastore.beginTransaction(treq.build)
@@ -148,18 +166,6 @@ class Username {
       l => if (l.available.equals("true")) b.append("1") else b.append("0")
     }
     b.toString()
-  }
-
-  def StringtoRes(s: String): List[result] = {
-    var list: ListBuffer[result] = ListBuffer[result]()
-    var rev = myUtils.CompanyNameToID.map(_.swap)
-    for (i <- 0 to s.length - 1) {
-      if (s.reverse.charAt(i) == '0')
-        list.append(result(rev(i), "false"))
-      else
-        list.append(result(rev(i), "true"))
-    }
-    return list.toList
   }
 }
 //

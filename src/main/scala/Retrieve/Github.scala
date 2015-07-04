@@ -9,7 +9,8 @@ import spray.httpx.UnsuccessfulResponseException
 import scala.concurrent.Future
 import scala.util.{Failure, Success}
 /**
- * Created by chenguanghe on 6/30/15.
+ * Search Github ID
+ * Created by gaoyike on 6/30/15.
  */
 class Github extends RetrieveInfo with Actor{
   val URL = "https://github.com/signup_check/username"
@@ -17,6 +18,13 @@ class Github extends RetrieveInfo with Actor{
   override def CompanyName(): String = "Github"
 
   override def RetrieveURL(): String = URL
+
+  override def receive: Receive = {
+    case r: request => {
+      UserNameInUser(r.username, r.id)
+    }
+    case _ => print("Error in Github")
+  }
 
   override def UserNameInUser(username: String, processId:Long) = {
     import scala.concurrent.ExecutionContext.Implicits.global
@@ -38,13 +46,5 @@ class Github extends RetrieveInfo with Actor{
       }
     }
     response.map(s => s.contains("used"))
-  }
-
-
-  override def receive: Receive = {
-    case r:request => {
-      UserNameInUser(r.username,r.id)
-    }
-    case _ => print("Error in Github")
   }
 }

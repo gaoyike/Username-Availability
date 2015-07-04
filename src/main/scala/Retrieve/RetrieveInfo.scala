@@ -1,7 +1,8 @@
 package Retrieve
 
 /**
- * Created by chenguanghe on 6/30/15.
+ * // the information trait
+ * Created by gaoyike on 6/30/15.
  */
 trait RetrieveInfo {
   def CompanyName(): String

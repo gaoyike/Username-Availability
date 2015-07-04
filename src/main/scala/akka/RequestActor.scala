@@ -10,7 +10,8 @@ import scala.concurrent.Await
 import scala.concurrent.duration._
 
 /**
- * Created by chenguanghe on 7/1/15.
+ * Handle the request
+ * Created by gaoyike on 7/1/15.
  */
 class RequestActor extends Actor {
   override def receive: Receive = {

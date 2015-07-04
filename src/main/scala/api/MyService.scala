@@ -4,7 +4,7 @@ import Utils.requestJsonSupport._
 import Utils.{RequestMessage, request}
 import akka.RequestActor
 import akka.actor.{Actor, Props}
-import spray.http.{StatusCodes, StatusCode}
+import spray.http.StatusCode
 import spray.httpx.SprayJsonSupport
 import spray.routing._
 
@@ -19,14 +19,12 @@ class MyServiceActor extends Actor with MyService {
   // this actor only runs our route, but you could add
   // other things here, like request stream processing
   // or timeout handling
-  def receive = runRoute(webappRoute~apiRoute)
+  def receive = runRoute(apiRoute)
 }
 
 
 // this trait defines our service behavior independently from the service actor
-trait  MyService extends HttpService with PerRequestCreator with SprayJsonSupport {
-
-  implicit def executionContext = actorRefFactory.dispatcher
+trait MyService extends HttpService with PerRequestCreator with SprayJsonSupport {
 
   val apiRoute =
     path("check") {
@@ -39,20 +37,25 @@ trait  MyService extends HttpService with PerRequestCreator with SprayJsonSuppor
         }
       }
     }
-  val webappRoute = {
-    pathSingleSlash {
-      redirect("webapp/", StatusCodes.PermanentRedirect)
-    } ~
-      pathPrefix("webapp") {
-        pathEnd {
-          redirect("webapp/", StatusCodes.PermanentRedirect)
-        } ~
-          pathEndOrSingleSlash {
-            getFromResource("webapp/index.html")
-          } ~
-          getFromResourceDirectory("webapp")
-      }
-  }
+
+  implicit def executionContext = actorRefFactory.dispatcher
+
+  //    }
+
+  //  val webappRoute = {
+  //    pathSingleSlash {
+  //      redirect("webapp/", StatusCodes.PermanentRedirect)
+  //    } ~
+  //      pathPrefix("webapp") {
+  //        pathEnd {
+  //          redirect("webapp/", StatusCodes.PermanentRedirect)
+  //        } ~
+  //          pathEndOrSingleSlash {
+  //            getFromResource("webapp/index.html")
+  //          } ~
+  //          getFromResourceDirectory("webapp")
+  //      }
+  //  }
   def handlePerRequest(message: RequestMessage): Route =
     ctx => perRequest(actorRefFactory, ctx, Props[RequestActor], message)
 

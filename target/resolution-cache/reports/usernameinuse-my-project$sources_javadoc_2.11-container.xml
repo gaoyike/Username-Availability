@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="usernameinuse"
+		module="my-project$sources_javadoc_2.11"
+		revision="0.1"
+		conf="container"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool, container"
+		date="20150703111232"/>
+	<dependencies>
+		<module organisation="com.github.jsimone" name="webapp-runner">
+			<revision name="7.0.34.1" status="release" pubdate="20130123125858" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jsimone.github.com/webapp-runner" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="0">
+				<license name="Apache License, Version 2.0" url="https://github.com/jsimone/webapp-runner/blob/master/src/main/resources/license/header.txt"/>
+				<metadata-artifact status="no" details="" size="5169" time="0" location="/Users/chenguanghe/.ivy2/cache/com.github.jsimone/webapp-runner/ivy-7.0.34.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/github/jsimone/webapp-runner/7.0.34.1/webapp-runner-7.0.34.1.pom"/>
+				<caller organisation="usernameinuse" name="my-project$sources_javadoc_2.11" conf="container" rev="7.0.34.1" rev-constraint-default="7.0.34.1" rev-constraint-dynamic="7.0.34.1" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="webapp-runner" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="8720" time="0" location="/Users/chenguanghe/.ivy2/cache/com.github.jsimone/webapp-runner/srcs/webapp-runner-7.0.34.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/github/jsimone/webapp-runner/7.0.34.1/webapp-runner-7.0.34.1-sources.jar"/>
+					</artifact>
+					<artifact name="webapp-runner" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="31075" time="0" location="/Users/chenguanghe/.ivy2/cache/com.github.jsimone/webapp-runner/docs/webapp-runner-7.0.34.1-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/github/jsimone/webapp-runner/7.0.34.1/webapp-runner-7.0.34.1-javadoc.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

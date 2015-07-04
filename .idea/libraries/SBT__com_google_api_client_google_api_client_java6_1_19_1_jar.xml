@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.google.api-client:google-api-client-java6:1.19.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.api-client/google-api-client-java6/jars/google-api-client-java6-1.19.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.api-client/google-api-client-java6/docs/google-api-client-java6-1.19.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.api-client/google-api-client-java6/srcs/google-api-client-java6-1.19.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.google.apis:google-api-services-datastore-protobuf:v1beta2-rev1-2.1.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.apis/google-api-services-datastore-protobuf/jars/google-api-services-datastore-protobuf-v1beta2-rev1-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.apis/google-api-services-datastore-protobuf/docs/google-api-services-datastore-protobuf-v1beta2-rev1-2.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.apis/google-api-services-datastore-protobuf/srcs/google-api-services-datastore-protobuf-v1beta2-rev1-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
